@@ -1,0 +1,14 @@
+C:\Users\Gurman Singh\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.exe
+C:\Users\Gurman Singh\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.deps.json
+C:\Users\Gurman Singh\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.runtimeconfig.json
+C:\Users\Gurman Singh\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.runtimeconfig.dev.json
+C:\Users\Gurman Singh\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.dll
+C:\Users\Gurman Singh\source\repos\Test2\Test2\bin\Debug\netcoreapp3.1\Test2.pdb
+C:\Users\Gurman Singh\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.csproj.AssemblyReference.cache
+C:\Users\Gurman Singh\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gurman Singh\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfoInputs.cache
+C:\Users\Gurman Singh\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.AssemblyInfo.cs
+C:\Users\Gurman Singh\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.csproj.CoreCompileInputs.cache
+C:\Users\Gurman Singh\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.dll
+C:\Users\Gurman Singh\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.pdb
+C:\Users\Gurman Singh\source\repos\Test2\Test2\obj\Debug\netcoreapp3.1\Test2.genruntimeconfig.cache
